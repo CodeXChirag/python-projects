@@ -1,3 +1,4 @@
+
 # 🐍 Beginner Python Projects by Chirag
 
 A collection of beginner Python projects I built while learning.
@@ -15,3 +16,4 @@ A collection of beginner Python projects I built while learning.
 - Git & GitHub
 
 📌 Built with ❤️ by [codeXChirag](https://github.com/CodeXChirag)
+
